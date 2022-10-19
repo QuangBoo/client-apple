@@ -3,7 +3,7 @@ import ReactDOM from 'react-dom/client';
 import App from './App';
 // import Modal from './Modal';
 import reportWebVitals from './reportWebVitals';
-import GlobalStyles from '~/components/GlobalStyles';
+import GlobalStyles from '~/components/GlobalStyles/GlobalStyles.js';
 import { AuthContexProvider } from './pages/Manager/context/authContext';
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
