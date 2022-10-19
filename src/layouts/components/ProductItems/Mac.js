@@ -2,8 +2,8 @@ import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
 
 import styles from "./ProductItems.module.scss"
-import { macs } from "~/assets/data/product";
-import config from "~/config";
+import { macs } from "src/assets/data/product";
+import config from "src/config";
 
 
 

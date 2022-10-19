@@ -1,7 +1,7 @@
 import classNames from "classnames/bind";
 import { useState, useRef, useEffect } from "react";
 import styles from './BackgroundProduct.module.scss'
-import { bannerMacs } from "~/assets/data/banner";
+import { bannerMacs } from "src/assets/data/banner";
 
 const cx = classNames.bind(styles)
 function BackgroundMac() {

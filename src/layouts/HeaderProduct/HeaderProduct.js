@@ -1,4 +1,4 @@
-import Header from '~/layouts/components/Header';
+import Header from 'src/layouts/components/Header';
 
 function HeaderProduct({ children }) {
     return (

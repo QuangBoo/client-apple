@@ -1,7 +1,7 @@
 import classNames from "classnames/bind";
 import styles from './BackgroundHome.module.scss'
 import { useState, useRef, useEffect } from "react";
-import { bannerHome } from "~/assets/data/banner";
+import { bannerHome } from "src/assets/data/banner";
 
 const cx = classNames.bind(styles)
 function Background() {

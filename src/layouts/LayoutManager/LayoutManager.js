@@ -1,5 +1,5 @@
-import { Header } from '~/pages/Manager/components/Navbar';
-import Footer from '~/pages/Manager/components/Footer/Footer';
+import { Header } from 'src/pages/Manager/components/Navbar';
+import Footer from 'src/pages/Manager/components/Footer/Footer';
 
 function LayoutManager({ children }) {
     return (
