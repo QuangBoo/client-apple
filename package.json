@@ -57,5 +57,7 @@
             "last 1 safari version"
         ]
     },
-    "proxy": "http://127.0.0.1:8800/api/"
+    "engines": {
+        "node": "14.17.3"
+    }
 }
