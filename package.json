@@ -31,10 +31,7 @@
         "babel-plugin-module-resolver": "^4.1.0",
         "customize-cra": "^1.0.0"
     },
-    "devDependencies": {
-        "babel-plugin-module-resolver": "^4.1.0",
-        "customize-cra": "^1.0.0"
-    },
+    
     "scripts": {
         "start": "react-app-rewired start",
         "build": "react-app-rewired build",
