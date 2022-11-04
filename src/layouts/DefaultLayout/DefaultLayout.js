@@ -4,9 +4,9 @@ import classNames from 'classnames/bind';
 // import { faArrowUp } from '@fortawesome/free-solid-svg-icons';
 // import { useEffect, useState } from 'react';
 
-import Header from '~/layouts/components/Header';
-import Background from '~/layouts/components/Background';
-import Footer from '~/layouts/components/Footer'
+import Header from 'src/layouts/components/Header';
+import Background from 'src/layouts/components/Background';
+import Footer from 'src/layouts/components/Footer'
 import styles from './DefaultLayout.module.scss';
 
 const cx = classNames.bind(styles);

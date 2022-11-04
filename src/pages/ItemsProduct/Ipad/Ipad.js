@@ -1,8 +1,8 @@
 import classNames from "classnames/bind";
 import { Link } from "react-router-dom";
-import { BackgroundIpad } from "~/layouts/components/Background/BackgroundProduct";
-import config from "~/config";
-import { ipads } from "~/assets/data/product"
+import { BackgroundIpad } from "src/layouts/components/Background/BackgroundProduct";
+import config from "src/config";
+import { ipads } from "src/assets/data/product"
 import styles from '../ItemsProduct.module.scss'
 
 

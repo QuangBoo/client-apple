@@ -1,27 +1,27 @@
-import config from '~/config';
+import config from 'src/config';
 
 // Layouts
-import { HeaderProduct, LayoutManager } from '~/layouts';
+import { HeaderProduct, LayoutManager } from 'src/layouts';
 
 // Pages
-import Home from '~/pages/Home';
-import Iphone from '~/pages/ItemsProduct/Iphone';
-import Ipad from '~/pages/ItemsProduct/Ipad';
-import Mac from '~/pages/ItemsProduct/Mac';
+import Home from 'src/pages/Home';
+import Iphone from 'src/pages/ItemsProduct/Iphone';
+import Ipad from 'src/pages/ItemsProduct/Ipad';
+import Mac from 'src/pages/ItemsProduct/Mac';
 
 // Single Page
-import SingleProduct from '~/pages/SingleProduct';
+import SingleProduct from 'src/pages/SingleProduct';
 
 
 //Manager
-import { HomeManager } from '~/pages/Manager/pages/Home';
-import Single from '~/pages/Manager/pages/Single';
-import Write from '~/pages/Manager/pages/Write';
-import { Register, Login } from '~/pages/Manager/pages/Register';
-// import Profile from '~/pages/Profile';
-// import Upload from '~/pages/Upload';
-// import Search from '~/pages/Search';
-// import Live from '~/pages/Live';
+import { HomeManager } from 'src/pages/Manager/pages/Home';
+import Single from 'src/pages/Manager/pages/Single';
+import Write from 'src/pages/Manager/pages/Write';
+import { Register, Login } from 'src/pages/Manager/pages/Register';
+// import Profile from 'src/pages/Profile';
+// import Upload from 'src/pages/Upload';
+// import Search from 'src/pages/Search';
+// import Live from 'src/pages/Live';
 
 // Data
 

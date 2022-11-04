@@ -1,10 +1,10 @@
 import classNames from "classnames/bind";
 import styles from "./ProductItems.module.scss"
-import { iphones } from "~/assets/data/product";
+import { iphones } from "src/assets/data/product";
 
 
 import { Link } from "react-router-dom";
-import config from "~/config";
+import config from "src/config";
 
 
 const cx = classNames.bind(styles)

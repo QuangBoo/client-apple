@@ -5,8 +5,8 @@ import { faCircleCheck } from '@fortawesome/free-regular-svg-icons'
 import classNames from 'classnames/bind'
 
 import styles from './SingleProduct.module.scss'
-import { Overview, Specification } from '~/components/OptionProduct'
-import img from '~/assets/images/iphone/iphone14promax-gray.png'
+import { Overview, Specification } from 'src/components/OptionProduct'
+import img from 'src/assets/images/iphone/iphone14promax-gray.png'
 const cx = classNames.bind(styles)
 function SingleProduct() {
   const tabs = [

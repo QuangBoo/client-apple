@@ -1,6 +1,6 @@
 import classNames from "classnames/bind";
 import styles from "./ProductItems.module.scss"
-import { watchs } from "~/assets/data/product";
+import { watchs } from "src/assets/data/product";
 
 
 import { Link } from "react-router-dom";
